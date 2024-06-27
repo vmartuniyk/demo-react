@@ -1,4 +1,4 @@
-# Ping CRM React
+# Demo React
 
 A demo application to illustrate how [Inertia.js](https://inertiajs.com/) works with [Laravel](https://laravel.com/) and [React](https://reactjs.org/).
 
@@ -67,7 +67,7 @@ php artisan serve
 
 ## Running tests
 
-To run the Ping CRM tests, run:
+To run the Progetti CRM tests, run:
 
 ```
 php artisan test
